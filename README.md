@@ -55,10 +55,9 @@ A frontend application showcasing my skills and projects.
 
 ## 📚 Learning & Growth
 
-- 🌱 Currently learning **TypeScript** and **React Query**
-- 📖 Exploring **Formik** and **React Hook Form** for advanced forms
+- 🌱 Currently learning **TypeScript** and **Next js**
+- 📖 Exploring **Syntactically awesome style sheets**
 - 🧠 Staying consistent with best practices and UI design principles
-- 🤝 Open to contributing to beginner-friendly open-source projects
 
 ---
 
