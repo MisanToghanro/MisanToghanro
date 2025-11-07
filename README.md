@@ -13,10 +13,6 @@ I’ve built real-world projects integrating **REST APIs**, managing state effic
 
 Graduated from the **ALX Software Engineering Program (Front-End Track)**, I’m eager to collaborate with dynamic teams and contribute to impactful, user-centered products**.  
 
-💡 *Currently open to front-end opportunities.*  
-
-📩 **Reach me:** [tmisan657@gmail.com](mailto:tmisan657@gmail.com)
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -84,6 +80,7 @@ Developed production-ready projects showcasing proficiency in modern frontend te
 
 🎓 **ALX Software Engineering Program — Front-End Track**  
 [View Certificate](https://savanna.alxafrica.com/certificates/7YL6FTfz5p)
+|
 prodev Frontend program:
 [View Certificate](https://savanna.alxafrica.com/certificates/McZJF6s8BN)
 
