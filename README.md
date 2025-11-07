@@ -52,19 +52,22 @@ An interactive job board platform built as part of the ALX ProDev Front-End prog
 ---
 
 ### 🎬 **Movie Finder App**  
-A movie search and detail app using **React**, **Tailwind CSS**, and the **OMDb API**.  
+A movie search and detail app using **React**, **Tailwind CSS**, and the **OMDb API**.
+  
 📂 [GitHub Repo](https://github.com/MisanToghanro/FE_Capstone_Project.git) | 🌐 [Live Demo](https://fe-capstone-project-3cm6.vercel.app/)
 
 ---
 
 ### 🌦️ **Weather App**  
-Fetches real-time weather data from an API with **light/dark mode** and responsive UI.  
+Fetches real-time weather data from an API with **light/dark mode** and responsive UI. 
+ 
 📂 [GitHub Repo](https://github.com/MisanToghanro/OpenWeather-app.git) | 🌐 [Live Demo](https://open-weather-app-lovat.vercel.app/)
 
 ---
 
 ### 💼 **Portfolio Web App**  
-A modern portfolio site showcasing my work and skills — built with **React** and **Tailwind CSS**.  
+A modern portfolio site showcasing my work and skills — built with **React** and **Tailwind CSS**.
+  
 📂 [GitHub Repo](https://github.com/MisanToghanro/My-Portfolio.git) | 🌐 [Live Demo](https://misandev.vercel.app/)
 
 
@@ -81,6 +84,8 @@ Developed production-ready projects showcasing proficiency in modern frontend te
 
 🎓 **ALX Software Engineering Program — Front-End Track**  
 [View Certificate](https://savanna.alxafrica.com/certificates/7YL6FTfz5p)
+prodev Frontend program:
+[View Certificate](https://savanna.alxafrica.com/certificates/McZJF6s8BN)
 
 ---
 
