@@ -39,12 +39,14 @@ Graduated from the **ALX Software Engineering Program (Front-End Track)**, I’m
 
 ### **Job Harbor Application** 
 An interactive job board platform built as part of the ALX ProDev Front-End program, emphasizing state management, accessibility, and usability.
+
 📂 [GitHub Repo](https://github.com/MisanToghanro/job-board-platform) | 🌐 [Live Demo](https://job-harbor-platform.vercel.app/)
 
 ---
 
 ### **Where in the World**
  A responsive Next.js + TypeScript application that allows users to explore countries using the REST Countries API. Features dark/light mode and dynamic routing for detailed country pages.
+
 📂 [GitHub Repo](https://github.com/MisanToghanro/Where-in-the-world) | 🌐 [Live Demo](https://where-in-the-world-five-roan.vercel.app/)
 
 ---
