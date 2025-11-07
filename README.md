@@ -53,6 +53,16 @@ Fetches real-time weather data from an API with **light/dark mode** and responsi
 A modern portfolio site showcasing my work and skills — built with **React** and **Tailwind CSS**.  
 📂 [GitHub Repo](https://github.com/MisanToghanro/My-Portfolio.git) | 🌐 [Live Demo](https://misandev.vercel.app/)
 
+### **Job Harbor Application** 
+An interactive job board platform built as part of the ALX ProDev Front-End program, emphasizing state management, accessibility, and usability.
+📂 [GitHub Repo](https://github.com/MisanToghanro/My-Portfolio.git) | 🌐 [Live Demo] (https://job-harbor-platform.vercel.app/)
+
+
+### **Where in the World**
+ A responsive Next.js + TypeScript application that allows users to explore countries using the REST Countries API. Features dark/light mode and dynamic routing for detailed country pages.
+📂 [GitHub Repo](https://github.com/MisanToghanro/My-Portfolio.git) | 🌐 [Live Demo] (https://where-in-the-world-five-roan.vercel.app/)
+
+
 ---
 
 ## 🧩 Professional Training & Certification  
